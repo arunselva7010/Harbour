@@ -1,0 +1,10 @@
+streamlit
+openai
+audio_recorder_streamlit
+streamlit-float
+transformers
+streamlit_float
+python-dotenv
+langdetect
+groq
+pydub
